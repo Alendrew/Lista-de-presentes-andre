@@ -63,7 +63,8 @@ main {
 .tamanho {
     position: fixed;
     right: 0;
-    margin: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
     width: 100px;
     height: 100px;
     display: flex;
@@ -95,7 +96,6 @@ main {
         margin: 0;
     }
     .tamanho {
-        margin: 37px;
         width: 50px;
         height: 50px;
     }
